@@ -1,2 +1,2 @@
-# jogodavelha
-Jogo da velha para o bootcamp Órbi Web Games Developer
+# Jogo da Velha 
+- Jogo da velha para o bootcamp Órbi Web Games Developer
